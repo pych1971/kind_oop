@@ -4,14 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d05ce54-5c41-4b4e-9f01-0a5d413a13b4" name="Changes" comment="2024-05-17-10-03">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="3d05ce54-5c41-4b4e-9f01-0a5d413a13b4" name="Changes" comment="2024-05-17-10-08">
+      <change afterPath="$PROJECT_DIR$/01/03/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/03/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/03/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/03/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/03/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/03/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/03/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/03/08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,13 +47,20 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2ga3v1YRRHg4me6v8lhrGtjx854" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.03.executor": "Run",
+    "Python.04.executor": "Run",
+    "Python.05.executor": "Run",
+    "Python.07.executor": "Run",
+    "Python.08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
@@ -76,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715922391990</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2024-05-17-10-08">
+      <option name="closed" value="true" />
+      <created>1715922527311</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715922527311</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +126,7 @@
     </ignored-roots>
     <MESSAGE value="2024-03-05-10-09" />
     <MESSAGE value="2024-05-17-10-03" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-05-17-10-03" />
+    <MESSAGE value="2024-05-17-10-08" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-05-17-10-08" />
   </component>
 </project>
