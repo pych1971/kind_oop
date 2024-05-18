@@ -9,7 +9,12 @@ class DataBase:
     FIELDS = ('id', 'name', 'old', 'salary')
 
     # здесь добавлять методы
+    def insert(self, data):
+        for s in data:
+            self.lst_data.append({self.FIELDS[i]: s.split()[i] for i in range(len(self.FIELDS))})
 
+    def select(self, a, b):
+        return self.lst_data[a:b + 1]
 
 
 db = DataBase()
