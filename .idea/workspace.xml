@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d05ce54-5c41-4b4e-9f01-0a5d413a13b4" name="Changes" comment="2024-05-17-14-48">
-      <change afterPath="$PROJECT_DIR$/01/04/05.py" afterDir="false" />
+    <list default="true" id="3d05ce54-5c41-4b4e-9f01-0a5d413a13b4" name="Changes" comment="2024-05-18-19-17">
+      <change afterPath="$PROJECT_DIR$/01/05/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/05/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/05/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/05/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/05/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/05/06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/04/04.py" beforeDir="false" afterPath="$PROJECT_DIR$/01/04/04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715939307576</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2024-05-18-19-17">
+      <option name="closed" value="true" />
+      <created>1716041843826</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716041843826</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +152,7 @@
     <MESSAGE value="2024-05-17-10-08" />
     <MESSAGE value="2024-05-17-13-26" />
     <MESSAGE value="2024-05-17-14-48" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-05-17-14-48" />
+    <MESSAGE value="2024-05-18-19-17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-05-18-19-17" />
   </component>
 </project>
